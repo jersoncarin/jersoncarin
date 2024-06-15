@@ -30,6 +30,6 @@
 
 ### 📈 Stats
 <div style="display: flex; flex-direction: row;">
- <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=jersoncarin&show_icons=true&theme=merko&hide_border=true"" />
- <img width="48%" height="200" style="margin-left: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jersoncarin&theme=merko&layout=compact&hide_border=true"" />
+ <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=jersoncarin&show_icons=true&theme=merko&hide_border=true"" />
+ <img height="200" style="margin-left: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jersoncarin&theme=merko&layout=compact&hide_border=true"" />
 </div>
