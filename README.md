@@ -30,6 +30,6 @@
 
 ### 📈 Stats
 <div style="display: flex; flex-direction: row;">
- <img height="200" src="https://github-readme-stats.vercel.app/api?username=jersoncarin&show_icons=true&theme=merko&hide_border=true" alt="jerson's github status"/>
- <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jersoncarin&theme=merko&layout=compact&hide_border=true" alt="jerson's github status" />
+ <img height="200" src="https://jersoncarin.me/api/stats?theme=dark" alt="jerson's github status"/>
+ <img height="200" src="https://jersoncarin.me/api/stats?type=languages&theme=dark" alt="jerson's github status" />
 </div>
