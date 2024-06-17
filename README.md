@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **laravel, react, javascript, typescript, php, etc.**
 
-- 📫 How to reach me mail@jersoncarin.me
+- 📫 How to reach me jersoncarin25@gmail.com
 
 - 📄 Know about my [experiences](https://jersoncarin.me/assets/resume.pdf)
 
