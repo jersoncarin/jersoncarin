@@ -2,7 +2,7 @@
 
 **Passionate Full-Stack Developer with 4+ years of experience designing and building web and mobile applications for real clients. Proficient in modern frameworks including React, Next.js, Nuxt, Vue, and Flutter. Delivers complete, production-ready systems from design to deployment. Seeking software engineering roles where I can contribute and grow.**
 
-![skills](https://skillicons.dev/icons?i=js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,docker,postgresql,git,figma,firebase,laravel,java,androidstudio,kotlin,tailwind,flutter&theme=light)
+![skills](https://skillicons.dev/icons?i=ts,php,wordpress,nodejs,vue,react,nextjs,mongodb,mysql,py,docker,postgresql,git,laravel,java,kotlin,tailwind,flutter&theme=light)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jersoncarin&label=Profile%20views&color=0e75b6&style=flat" alt="jersoncarin" /> </p>
 
